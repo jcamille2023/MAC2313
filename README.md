@@ -1,0 +1,1 @@
+Welcome to my Calculus 3 repository! This will hold all of my Markdown notes for Calc 3 and if I find code useful for this class I'll add it here. This repo is for MAC2313 001 10631 with Francesco Sica. These notes are best rendered in Obsidian, but should be fine in any other Markdown renderer with LaTeX support.
